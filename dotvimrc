@@ -23,6 +23,8 @@ Bundle 'pangloss/vim-javascript'
 Bundle 'jnwhiteh/vim-golang'
 Bundle 'Shougo/vimshell.vim'
 Bundle 'tpope/vim-surround'
+Bundle "lepture/vim-jinja"
+
 
 " vim-javascript
 let g:javascript_conceal_function   = "ƒ"
